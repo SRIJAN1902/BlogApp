@@ -1,0 +1,27 @@
+.nav-link{
+    padding-right: 1.5rem;
+}
+.active{
+    border-bottom: 3px solid white!important;
+}
+nav{
+    height: 55px;
+}
+.navbar{
+    background-color: #4a50a4;
+} 
+nav li:hover{
+    font-weight: 600;
+    font-stretch:expanded ;
+}
+.navbar h5{
+    cursor: pointer;
+}
+.dropdown button{
+    border: none;
+    outline: none;
+    padding: 0;
+}
+sup{
+    color: rgb(232, 230, 230);
+}

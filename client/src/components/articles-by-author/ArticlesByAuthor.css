@@ -1,0 +1,20 @@
+.category{
+    background-color: #888888;
+}
+.custom-btn{
+    background:linear-gradient(to right,#6888c9,#425794);
+    border: none;
+    outline: none;
+    color: aliceblue;
+}
+.custom-btn:hover{
+    color: #285fcd;
+    border: 2px solid #425794;
+    background: white;
+}
+.articles_card{
+    transition: all 0.3s;
+}
+.articles_card:hover{
+    transform: scale(1.1);
+}

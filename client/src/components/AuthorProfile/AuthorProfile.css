@@ -1,0 +1,5 @@
+.profile  .active{
+    color: white!important; 
+    background-color: rgb(101, 101, 207)!important;
+    border-radius: 12px ;
+}
