@@ -24,7 +24,7 @@ A **MERN stack** blog platform with **JWT authentication**, **Redux state manage
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/bharathgurumetkal/blogapp.git
+
 
 ### 2️⃣ Backend Setup
  ```bash
